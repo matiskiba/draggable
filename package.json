@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/draggable",
+  "name": "matiskiba/draggable",
   "version": "1.0.0-beta.7",
   "private": false,
   "license": "MIT",
@@ -14,6 +14,10 @@
     {
       "name": "Curtis Dulmage",
       "email": "curtis.dulmage@shopify.com"
+    }
+    ,{
+      "name": "Mati Skiba",
+      "email": "matiskiba@gmail.com"
     }
   ],
   "bugs": {
